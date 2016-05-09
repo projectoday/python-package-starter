@@ -1,1 +1,2 @@
-print 'Hi, I am mod2 of pkg2!'
+def sayHi():
+    print 'Hi, I am inside mod2 of pkg2!'
